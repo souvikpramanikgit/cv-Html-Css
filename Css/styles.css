@@ -86,7 +86,9 @@ h2 {
 }
 
 @media screen and (max-width:799px) {
-
+    h1{
+        font-size: 24px;
+    }
     .intro table {
         display: block;
         width: auto;
@@ -103,9 +105,5 @@ h2 {
     .intro .image {
         max-width: 100%;
         height: auto;
-    }
-
-    h1{
-        font-size: 24px;
     }
 }
